@@ -9,3 +9,4 @@
 docker compose exec server bash -c 'npx sequelize db:migrate'
 ```
 
+Este projeto eu clonei e realizei o processo de persistecia e tem os arquivos de scripts ate o desafio 3.
